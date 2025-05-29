@@ -1,0 +1,14 @@
+{
+    "version": "1",
+    "branches": [
+        "*"
+    ],
+    "applications": [
+        {
+            "slug": "klave-attestation-app",
+            "description": "This is an honest application for the Klave Network",
+            "version": "0.0.1",
+            "rootDir": "/apps/klave-attestation-app"
+        }
+    ]
+}
